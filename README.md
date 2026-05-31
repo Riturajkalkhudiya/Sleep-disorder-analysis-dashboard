@@ -85,7 +85,7 @@ Analyzes:
 
 ### Overview Dashboard
 
-![Overview Dashboard](overall_trends(1).png)
+![Overview Dashboard](overall_trends.png)
 
 ### Male Analysis Dashboard
 
